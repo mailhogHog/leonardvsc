@@ -38,7 +38,7 @@ try {
 } catch (e) {}
 ```
 
-# prescribing
+# leonardvsc
 
 It is possible to save text files in IE < 10 without Flash-based polyfills.
 See [ChenWenBrian and koffsyrup's `saveTextAs()`](https://github.com/koffsyrup/proba.js#examples) for more details.
